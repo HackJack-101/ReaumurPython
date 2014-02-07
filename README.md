@@ -29,3 +29,11 @@ Il faut ensuite modifier le script pour entrer vos identifiants ENT.
 Et c'est bon c'est parti le script s'occupe de tout !
 
 J'attends vos retours. Ça marche sur les connexions Wifi et Ethernet, bien sûr.
+
+
+
+Acknowledgements / Remerciements
+=============
+
+Special thanks to Aquaj : https://github.com/aquaj
+Je remercie particulièrement Aquaj : https://github.com/aquaj
